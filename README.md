@@ -1,1 +1,1 @@
-O presente projeto foi realizado em 2024 para estudos dos aprendizados na disciplina de HTML, CSS e Javascript.
+This project was developed in 2024 to apply some HTML and CSS knowledge.
